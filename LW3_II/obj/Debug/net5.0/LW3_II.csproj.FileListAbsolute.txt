@@ -1,0 +1,16 @@
+D:\с#\LW3_II\bin\Debug\net5.0\LW3_II.exe
+D:\с#\LW3_II\bin\Debug\net5.0\LW3_II.deps.json
+D:\с#\LW3_II\bin\Debug\net5.0\LW3_II.runtimeconfig.json
+D:\с#\LW3_II\bin\Debug\net5.0\LW3_II.runtimeconfig.dev.json
+D:\с#\LW3_II\bin\Debug\net5.0\LW3_II.dll
+D:\с#\LW3_II\bin\Debug\net5.0\ref\LW3_II.dll
+D:\с#\LW3_II\bin\Debug\net5.0\LW3_II.pdb
+D:\с#\LW3_II\obj\Debug\net5.0\LW3_II.csproj.AssemblyReference.cache
+D:\с#\LW3_II\obj\Debug\net5.0\LW3_II.GeneratedMSBuildEditorConfig.editorconfig
+D:\с#\LW3_II\obj\Debug\net5.0\LW3_II.AssemblyInfoInputs.cache
+D:\с#\LW3_II\obj\Debug\net5.0\LW3_II.AssemblyInfo.cs
+D:\с#\LW3_II\obj\Debug\net5.0\LW3_II.csproj.CoreCompileInputs.cache
+D:\с#\LW3_II\obj\Debug\net5.0\LW3_II.dll
+D:\с#\LW3_II\obj\Debug\net5.0\ref\LW3_II.dll
+D:\с#\LW3_II\obj\Debug\net5.0\LW3_II.pdb
+D:\с#\LW3_II\obj\Debug\net5.0\LW3_II.genruntimeconfig.cache

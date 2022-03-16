@@ -1,0 +1,4 @@
+Name: ???; 
+Count of students: 6000; 
+Count of teachers: 2400; 
+Count of classes: 63 

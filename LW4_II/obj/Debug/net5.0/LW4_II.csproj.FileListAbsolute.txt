@@ -1,0 +1,16 @@
+D:\с#\LW4_II\bin\Debug\net5.0\LW4_II.exe
+D:\с#\LW4_II\bin\Debug\net5.0\LW4_II.deps.json
+D:\с#\LW4_II\bin\Debug\net5.0\LW4_II.runtimeconfig.json
+D:\с#\LW4_II\bin\Debug\net5.0\LW4_II.runtimeconfig.dev.json
+D:\с#\LW4_II\bin\Debug\net5.0\LW4_II.dll
+D:\с#\LW4_II\bin\Debug\net5.0\ref\LW4_II.dll
+D:\с#\LW4_II\bin\Debug\net5.0\LW4_II.pdb
+D:\с#\LW4_II\obj\Debug\net5.0\LW4_II.GeneratedMSBuildEditorConfig.editorconfig
+D:\с#\LW4_II\obj\Debug\net5.0\LW4_II.AssemblyInfoInputs.cache
+D:\с#\LW4_II\obj\Debug\net5.0\LW4_II.AssemblyInfo.cs
+D:\с#\LW4_II\obj\Debug\net5.0\LW4_II.csproj.CoreCompileInputs.cache
+D:\с#\LW4_II\obj\Debug\net5.0\LW4_II.dll
+D:\с#\LW4_II\obj\Debug\net5.0\ref\LW4_II.dll
+D:\с#\LW4_II\obj\Debug\net5.0\LW4_II.pdb
+D:\с#\LW4_II\obj\Debug\net5.0\LW4_II.genruntimeconfig.cache
+D:\с#\LW4_II\obj\Debug\net5.0\LW4_II.csproj.AssemblyReference.cache

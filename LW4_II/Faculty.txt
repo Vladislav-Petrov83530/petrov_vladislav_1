@@ -1,0 +1,4 @@
+Name: ; 
+Count of students: 0; 
+Count of teachers: 0; 
+Year of foundation: 0 
