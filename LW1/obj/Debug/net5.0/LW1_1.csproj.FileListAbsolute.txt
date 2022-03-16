@@ -1,0 +1,16 @@
+D:\с#\LW1\bin\Debug\net5.0\LW1_1.exe
+D:\с#\LW1\bin\Debug\net5.0\LW1_1.deps.json
+D:\с#\LW1\bin\Debug\net5.0\LW1_1.runtimeconfig.json
+D:\с#\LW1\bin\Debug\net5.0\LW1_1.runtimeconfig.dev.json
+D:\с#\LW1\bin\Debug\net5.0\LW1_1.dll
+D:\с#\LW1\bin\Debug\net5.0\ref\LW1_1.dll
+D:\с#\LW1\bin\Debug\net5.0\LW1_1.pdb
+D:\с#\LW1\obj\Debug\net5.0\LW1_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\с#\LW1\obj\Debug\net5.0\LW1_1.AssemblyInfoInputs.cache
+D:\с#\LW1\obj\Debug\net5.0\LW1_1.AssemblyInfo.cs
+D:\с#\LW1\obj\Debug\net5.0\LW1_1.csproj.CoreCompileInputs.cache
+D:\с#\LW1\obj\Debug\net5.0\LW1_1.dll
+D:\с#\LW1\obj\Debug\net5.0\ref\LW1_1.dll
+D:\с#\LW1\obj\Debug\net5.0\LW1_1.pdb
+D:\с#\LW1\obj\Debug\net5.0\LW1_1.genruntimeconfig.cache
+D:\с#\LW1\obj\Debug\net5.0\LW1_1.csproj.AssemblyReference.cache
